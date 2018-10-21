@@ -1,7 +1,7 @@
 # Python-Challenge
 
 
-## Option 3: PyBoss
+## Option 1: PyBoss
 
 In this challenge, you get to be the _boss_. You oversee hundreds of employees across the country developing Tuna 2.0, a world-changing snack food based on canned tuna fish. Alas, being the boss isn't all fun, games, and self-adulation. The company recently decided to purchase a new HR system, and unfortunately for you, the new system requires employee records be stored completely differently.
 
@@ -11,7 +11,7 @@ Your task is to help bridge the gap by creating a Python script able to convert 
 
 
 
-## Option 4: PyParagraph
+## Option 2: PyParagraph
 
 In this challenge, you get to play the role of chief linguist at a local learning academy. As chief linguist, you are responsible for assessing the complexity of various passages of writing, ranging from the sophomoric Twilight novel to the nauseatingly high-minded research article. Having read so many passages, you've since come up with a fairly simple set of metrics for assessing complexity.
 
