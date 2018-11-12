@@ -1,7 +1,7 @@
 # Python-Challenge
 
 
-## Option 3: PyBoss
+## PyBoss
 
 ![Boss](Images/boss.jpg)
 
@@ -41,7 +41,7 @@ Emp ID,First Name,Last Name,DOB,SSN,State
 
 * Special Hint: You may find this link to be helpfulâ€”[Python Dictionary for State Abbreviations](https://gist.github.com/afhaque/29f0f4f37463c447770517a6c17d08f5).
 
-## Option 4: PyParagraph
+## PyParagraph
 
 ![Language](Images/language.jpg)
 
